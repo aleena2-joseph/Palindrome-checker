@@ -58,6 +58,7 @@ header p {
   background: rgb(75, 4, 101);
   color: white;
   margin-bottom: 10px;
+   border-radius: 20px;
 }
 .txt {
   display: none;
